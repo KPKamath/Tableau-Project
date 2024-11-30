@@ -4,6 +4,11 @@ The purpose of the interactive sales dashboard is to present an overview of the 
 
 <img width="1208" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/9b8097ed-6cf9-4a51-aacd-ae1fdb91cc93">
 
+#Data Model:
+
+The model created to visualise this dashboard is below.
+
+<img width="1440" alt="Data model" src="https://github.com/user-attachments/assets/ffa2e9b8-73ab-4174-ba93-33928939adc3">
 
 
 #KPI Overview:
