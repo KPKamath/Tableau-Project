@@ -1,17 +1,17 @@
-#Dashboard Purpose:
+# Dashboard Purpose:
 
 The purpose of the interactive sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales patterns.
 
 <img width="1208" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/9b8097ed-6cf9-4a51-aacd-ae1fdb91cc93">
 
-#Data Model:
+# Data Model:
 
 The model created to visualise this dashboard is below.
 
 <img width="1440" alt="Data model" src="https://github.com/user-attachments/assets/ffa2e9b8-73ab-4174-ba93-33928939adc3">
 
 
-#KPI Overview:
+# KPI Overview:
 
 The dashboard displays a summary of total sales, profits, and quantity for the current year (2023) and the previous year.
 
@@ -22,16 +22,14 @@ The dashboard displays a summary of total sales, profits, and quantity for the c
 <img width="1066" alt="KPI Quantity" src="https://github.com/user-attachments/assets/48ebe4a8-fbff-4375-92d6-5a7ad480d7ac">
 
 
-
-#Product Subcategory Comparison:
+# Product Subcategory Comparison:
 
 The dashboard compares sales performance by different product subcategories for the current year and the previous year. It includes a comparison of sales with profit.
 
 <img width="1066" alt="Subcategory Comparison" src="https://github.com/user-attachments/assets/4db76d2a-9551-4e7f-a683-56cf4011c262">
 
 
-
-#Weekly Trends for Sales & Profit:
+# Weekly Trends for Sales & Profit:
 
 The dashboard presents weekly sales and profit data for the current year, displays the average weekly values, and highlights weeks that are above and below the average to draw attention to sales and profit performance.
 
