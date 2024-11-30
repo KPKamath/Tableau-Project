@@ -1,6 +1,6 @@
 # Dashboard Purpose:
 
-The purpose of the interactive sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales patterns.
+The purpose of the interactive sales dashboard is to present an overview of the US sales metrics and trends within categories of Furniture, Office supplies and Technology, in order to analyze year-over-year sales performance and understand sales patterns.
 
 <img width="1208" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/9b8097ed-6cf9-4a51-aacd-ae1fdb91cc93">
 
